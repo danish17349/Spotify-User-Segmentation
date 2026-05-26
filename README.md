@@ -280,29 +280,6 @@ Highly engaged music consumers deeply connected with the platform.
 
 ---
 
-# 📌 Cluster Profiling Insights
-
-## Cluster Size
-- All four clusters were reasonably balanced
-- No extremely dominant or very small cluster observed
-
-## Age Distribution
-- Most users belonged to the mid-20s to mid-30s age range
-- Segmentation was behavior-driven rather than age-driven
-
-## Subscription Tenure
-- Similar tenure distribution across clusters
-- Variations mainly reflected listening intensity and engagement
-
-## Device Usage
-- Mobile devices dominated across all clusters
-- Desktop and tablet usage remained secondary
-
-## Geographical Distribution
-- Brazil and India represented the largest user groups
-- UK, Denmark, and the US also showed consistent representation
-- Geographic distribution remained relatively balanced across clusters
-
 # 📈 Visualizations Included
 
 The project generates multiple visualizations:
